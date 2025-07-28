@@ -12,6 +12,13 @@ Try it instantly here:
 🔗 [Chart Analysis Demo](https://huggingface.co/spaces/ctntrk/Chart-Analysis)
 
 ---
+## Chart-Analysis-HuggingFace-Space
+
+---
+
+## Chart-Analysis-HuggingFace-Space-Web-Interface
+
+---
 
 ## 🚀 Features
 
@@ -52,6 +59,22 @@ Try it instantly here:
 
 6. **Output**
    Displays the analysis text and provides a downloadable PDF.
+
+---
+
+## Chart Analysis Web Interface
+
+---
+## Chart Upload
+> The chart in the file named Sample-Chart.png is used in the video. This file is available in the GitHub repository.
+---
+
+## Result Screen After Model Run
+---
+## Sample Report Screenshot-1
+> The file named chart_analysis_result.pdf is a report generated as a result of the model's execution in the video. This file is also available in the GitHub repository.
+---
+## Sample Report Screenshot-2
 
 ---
 
