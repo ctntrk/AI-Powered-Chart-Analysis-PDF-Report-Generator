@@ -14,9 +14,15 @@ Try it instantly here:
 ---
 ## Chart-Analysis-HuggingFace-Space
 
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Chart-Analysis-HuggingFace-Space-Web-Interface.png)
+
+
 ---
 
 ## Chart-Analysis-HuggingFace-Space-Web-Interface
+
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Chart-Analysis-HuggingFace-Space.png)
+
 
 ---
 
@@ -64,17 +70,31 @@ Try it instantly here:
 
 ## Chart Analysis Web Interface
 
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Chart-Analysis-Web-Interface.jpg)
+
 ---
 ## Chart Upload
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Chart-Upload.jpg)
+
+
 > The chart in the file named Sample-Chart.png is used in the video. This file is available in the GitHub repository.
 ---
 
 ## Result Screen After Model Run
+
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Result-Screen-After-Model-Run.jpg)
+
+
 ---
 ## Sample Report Screenshot-1
+
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Sample-Report-Screenshot-1.jpg)
+
 > The file named chart_analysis_result.pdf is a report generated as a result of the model's execution in the video. This file is also available in the GitHub repository.
 ---
 ## Sample Report Screenshot-2
+
+![Alt text](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator/blob/main/Sample-Report-Screenshot-2.jpg)
 
 ---
 
