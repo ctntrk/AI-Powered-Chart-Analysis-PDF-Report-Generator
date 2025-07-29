@@ -6,7 +6,7 @@ This project uses Hugging Face’s multi-modal SmolVLM-Instruct model to interpr
 
 ## Chart Analysis Demo Introduction Video
 
-https://github.com/user-attachments/assets/3014242a-45a3-4a4b-aef0-bab5ce201e4c
+https://github.com/user-attachments/assets/9c94a602-877e-4095-b8fb-e2ddf349fcfa
 
 ---
 
