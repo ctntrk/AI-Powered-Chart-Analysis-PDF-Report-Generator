@@ -4,6 +4,10 @@
 
 This project uses Hugging Face’s multi-modal SmolVLM-Instruct model to interpret various types of charts (bar, pie, line, etc.) and produce clear, human-like explanations.
 
+## Chart Analysis Demo Introduction Video
+
+https://github.com/user-attachments/assets/3014242a-45a3-4a4b-aef0-bab5ce201e4c
+
 ---
 
 ## 🌐 Live Demo
